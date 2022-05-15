@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "myjppm-admin",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "io.ionic.starter",
+  "appName": "ionic6-tabs-react",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
