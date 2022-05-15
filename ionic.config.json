@@ -1,0 +1,7 @@
+{
+  "name": "myjppm-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myjppm-admin",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
